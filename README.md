@@ -16,12 +16,11 @@
 
 ### Resumo 📋
 
-- Crie formulários complexos
-- Trabalhe com campos para celulares
-- Apresente informações em tabelas
-- Use estilos para formulários, campos e tabelas
-- Entenda a hierarquia no CSS
-- Trabalhe com transformações e transições
+- O que é Git e Github?
+- Entenda um sistema de controle de versão
+- Salve e recupere seu código em diferentes versões
+- Resolva merges e conflitos
+- Trabalhe com diferentes branches
 
 
 ### Como executar o projeto 🚀
